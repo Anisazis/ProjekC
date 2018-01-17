@@ -20,6 +20,7 @@ public class gredmarkah {
 Scanner scan=new Scanner(System.in);
 
 System.out.println("MASUKKAN MARKAH ANDA");
+System.out.println("TOLONG JUJUR");
 
 System.out.println("Markah Bahasa Melayu : ");
 bm = scan.nextDouble();
